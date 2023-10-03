@@ -1,9 +1,6 @@
-.container {
-    justify-content: center;
-    padding-left: 85%;
-    background-color: #240606;
+body {
+    background-color: #9f9a9a;
 }
-
 
 
 #my-form{
@@ -19,6 +16,28 @@
 
 #btn {
     border: solid rgb(34, 32, 36);
-    background-color: rgb(146, 165, 230);
+    background-color: #5277ef;
     border-radius: 2rem;
+}
+
+.search-bar {
+    
+    margin-left: 5px;
+    
+}
+
+#search {
+    background-color: #5277ef;;
+}
+
+.center-design{
+    margin-left: 25%;
+    margin-bottom: 20%;
+}
+
+.search-bar2 {
+    
+    float: right;
+    margin-top: 0;
+    
 }
