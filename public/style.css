@@ -1,0 +1,24 @@
+.container {
+    justify-content: center;
+    padding-left: 85%;
+    background-color: #240606;
+}
+
+
+
+#my-form{
+    
+    width: 25%;
+    display: grid;
+    padding: 2rem;
+    background: #f3efef;
+    border: solid green;
+    border-radius: 2rem;
+    margin-left: 35%;
+}
+
+#btn {
+    border: solid rgb(34, 32, 36);
+    background-color: rgb(146, 165, 230);
+    border-radius: 2rem;
+}
